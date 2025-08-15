@@ -14,7 +14,10 @@
                         <a class="nav-link" href="/about-us">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/jobs">Jobs</a>
+                        <a class="nav-link" href="/about-us">Contacts</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-dark text-white mx-2" href="/jobs">Jobs</a>
                     </li>
                 </ul>
             </div>

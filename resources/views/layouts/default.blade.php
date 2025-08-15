@@ -11,14 +11,14 @@
     {{-- styles|scripts --}}
     @vite(['resources/css/app.css','resources/js/app.js'])
 </head>
-<body class="d-flex flex-column min-vh-100">
+<body class="d-flex flex-column min-vh-100 bg-body-tertiary">
 
     {{--  header --}}
     @include('layouts.includes.header')
 
     {{-- mains --}}
     <main class="d-flex align-items-center justify-content-center vh-100 fade-section"
-        style="{{ request()->is('about-us') ? 'background-image: url(' . asset('images/bg1.jpg') . '); background-size: cover; background-position: center;' : 'background-color: #D3EFFC;' }}">
+        style="{{ request()->is(['about-us', 'jobs']) ? 'background-image: url(' . asset('images/bg1.jpg') . '); background-size: cover; background-position: center;' : 'background-color: #D3EFFC;' }}">
         @yield('content')
     </main>
 
