@@ -18,3 +18,7 @@ Route::get('/about-us', function () {
 Route::get('/job-details', function () {
     return view('jobs.job-details');
 });
+
+Route::get('/jobs/contacts', function(){
+    return view('jobs.contacts');
+});
