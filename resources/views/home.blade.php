@@ -10,8 +10,8 @@
                 </div>
                 <div>
                     <p>
-                        Finding the right job or the perfect hire shouldn't be stressful or complicated. 
-                        That's why we've created a space where talented people and great companies can 
+                        Finding the right job or the perfect hire shouldn't be stressful or complicated.
+                        That's why we've created a space where talented people and great companies can
                         connect with ease.
                     </p>
                 </div>
@@ -35,9 +35,9 @@
             </div>
             <div class="col-md-7">
                 <p>
-                    If you're chasing your dream role, we'll help you get there. 
-                    If you're building your dream team, we'll help you find the right match. With smart search tools, 
-                    trusted listings, and personalized suggestions, 
+                    If you're chasing your dream role, we'll help you get there.
+                    If you're building your dream team, we'll help you find the right match. With smart search tools,
+                    trusted listings, and personalized suggestions,
                     we make it simpler than ever to bring the right people together.
                 </p>
             </div>
@@ -52,33 +52,33 @@
         </div>
         <div class="d-flex flex-column justify-content-center align-items-center">
             <div>
-            <div class="d-flex align-items-center mb-5">
-                <div class="h1 ">
-                    <i class="bi bi-person me-2"></i>
+                <div class="d-flex align-items-center mb-5">
+                    <div class="h1 ">
+                        <i class="bi bi-briefcase me-3"></i>
+                    </div>
+                    <div>
+                        <h3 class="fw-normal">Empowering Job seekers</h3>
+                        <p>Opportunities that truly fit your skills and ambitions.</p>
+                    </div>
                 </div>
-                <div>
-                    <h3 class="fw-normal">Empowering Job seekers</h3>
-                    <p>Opportunities that truly fit your skills and ambitions.</p>
+                <div class="d-flex align-items-center mb-5">
+                    <div class="h1">
+                        <i class="bi bi-person me-3"></i>
+                    </div>
+                    <div>
+                        <h3 class="fw-normal">Helping employers succeed</h3>
+                        <p>Quick, efficient access to qualified talent.</p>
+                    </div>
                 </div>
-            </div>
-            <div class="d-flex align-items-center mb-5">
-                <div class="h1">
-                    <i class="bi bi-person me-2"></i>
+                <div class="d-flex align-items-center mb-5">
+                    <div class="h1">
+                        <i class="bi bi-bar-chart-line me-3"></i>
+                    </div>
+                    <div>
+                        <h3 class="fw-normal">Fostering growth</h3>
+                        <p>Building a strong network where careers and businesses flourish.</p>
+                    </div>
                 </div>
-                <div>
-                    <h3 class="fw-normal">Helping employers succeed</h3>
-                    <p>Quick, efficient access to qualified talent.</p>
-                </div>
-            </div>
-            <div class="d-flex align-items-center mb-5">
-                <div class="h1">
-                    <i class="bi bi-person me-2"></i>
-                </div>
-                <div>
-                    <h3 class="fw-normal">Fostering growth</h3>
-                    <p>Building a strong network where careers and businesses flourish.</p>
-                </div>
-            </div>
             </div>
         </div>
     </div>
